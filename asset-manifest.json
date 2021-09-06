@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://arun203.github.io/csb-fdy4k/static/css/main.ddc7c358.chunk.css",
+    "main.js": "https://arun203.github.io/csb-fdy4k/static/js/main.345227d1.chunk.js",
+    "main.js.map": "https://arun203.github.io/csb-fdy4k/static/js/main.345227d1.chunk.js.map",
+    "runtime-main.js": "https://arun203.github.io/csb-fdy4k/static/js/runtime-main.9dfc0bb3.js",
+    "runtime-main.js.map": "https://arun203.github.io/csb-fdy4k/static/js/runtime-main.9dfc0bb3.js.map",
+    "static/css/2.4b1fb822.chunk.css": "https://arun203.github.io/csb-fdy4k/static/css/2.4b1fb822.chunk.css",
+    "static/js/2.371f35c6.chunk.js": "https://arun203.github.io/csb-fdy4k/static/js/2.371f35c6.chunk.js",
+    "static/js/2.371f35c6.chunk.js.map": "https://arun203.github.io/csb-fdy4k/static/js/2.371f35c6.chunk.js.map",
+    "static/js/3.10115cf8.chunk.js": "https://arun203.github.io/csb-fdy4k/static/js/3.10115cf8.chunk.js",
+    "static/js/3.10115cf8.chunk.js.map": "https://arun203.github.io/csb-fdy4k/static/js/3.10115cf8.chunk.js.map",
+    "index.html": "https://arun203.github.io/csb-fdy4k/index.html",
+    "static/css/2.4b1fb822.chunk.css.map": "https://arun203.github.io/csb-fdy4k/static/css/2.4b1fb822.chunk.css.map",
+    "static/css/main.ddc7c358.chunk.css.map": "https://arun203.github.io/csb-fdy4k/static/css/main.ddc7c358.chunk.css.map",
+    "static/js/2.371f35c6.chunk.js.LICENSE.txt": "https://arun203.github.io/csb-fdy4k/static/js/2.371f35c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dfc0bb3.js",
+    "static/css/2.4b1fb822.chunk.css",
+    "static/js/2.371f35c6.chunk.js",
+    "static/css/main.ddc7c358.chunk.css",
+    "static/js/main.345227d1.chunk.js"
+  ]
+}
